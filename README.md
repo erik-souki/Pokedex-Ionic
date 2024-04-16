@@ -1,7 +1,7 @@
 
 # Pokedex
 
-Bem-vindo ao Pokedex, seu companheiro de treinamento Pokémon definitivo! Desenvolvido com Ionic, Angular e TypeScript, o Pokedex oferece uma experiência envolvente e informativa para explorar o vasto mundo dos Pokémons. Com uma interface intuitiva e design responsivo, você pode mergulhar fundo nas características de cada criatura e aprimorar suas habilidades como treinador.
+Bem-vindo a Pokedex, seu companheiro de treinamento Pokémon definitivo! Desenvolvido com Ionic, Angular e TypeScript, o Pokedex oferece uma experiência envolvente e informativa para explorar o vasto mundo dos Pokémons. Com uma interface intuitiva e design responsivo, você pode mergulhar fundo nas características de cada criatura e aprimorar suas habilidades como treinador.
 
 ## Recursos Principais
 
